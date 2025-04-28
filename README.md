@@ -1,7 +1,3 @@
---[[
-Made by Pawel12d#0272
-Modification by Bigmilk#1111
---]]
 
 local Hint = Instance.new("Hint", game.CoreGui)
 Hint.Text = "hexagon | Waiting for the game to load..."
